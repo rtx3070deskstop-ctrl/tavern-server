@@ -1,7 +1,7 @@
 {
   "name": "tavern-server",
   "version": "1.0.0",
-  "description": "Server for Jakes Game",
+  "description": "Server for Jake's Game",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
